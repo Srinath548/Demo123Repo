@@ -12,12 +12,12 @@ public class DemoTest {
 	{		
 		System.out.println("Addition");
 		int a=1250;
-		int b=250;
-		int c=200;
+		int b=1250;
+		int c=1200;
 		int d=400;
 		int e=600;
 		int f=3300;
-		Assert.assertEquals(6000, a+b+c+d+e+f);		
+		Assert.assertEquals(8000, a+b+c+d+e+f);		
 		
 		System.out.println("...Test done....");
 	}
