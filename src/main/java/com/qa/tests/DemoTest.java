@@ -16,8 +16,8 @@ public class DemoTest {
 		int c=1200;
 		int d=400;
 		int e=600;
-		int f=6300;
-		Assert.assertEquals(10000, a+b+c+d+e+f);		
+		int f=8300;
+		Assert.assertEquals(12000, a+b+c+d+e+f);		
 		
 		System.out.println("...Test done....");
 	}
