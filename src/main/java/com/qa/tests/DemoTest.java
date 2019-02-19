@@ -11,13 +11,13 @@ public class DemoTest {
 	public void sum()
 	{		
 		System.out.println("Addition");
-		int a=250;
+		int a=1250;
 		int b=250;
 		int c=200;
 		int d=400;
 		int e=600;
 		int f=3300;
-		Assert.assertEquals(5000, a+b+c+d+e+f);		
+		Assert.assertEquals(6000, a+b+c+d+e+f);		
 		
 		System.out.println("...Test done....");
 	}
